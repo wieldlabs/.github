@@ -11,3 +11,5 @@ _We build open-source and decentralized social protocols and products. To a free
 👀 See our open-source frontend at [bebverse/b7b](https://github.com/bebverse/b7b) and [b7b.xyz](https://b7b.xyz)
 
 🐦 Follow [@bebverse](https://twitter.com/bebverse) and [@bebprotocol](https://twitter.com/bebprotocol) on Twitter
+
+🏗️ Join our [public Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss BEB in real-time
