@@ -1,6 +1,6 @@
 # BEBverse Labs
 
-_We build open-source and decentralized social protocols and products. To a freer future 🥂_
+_We build decentralized social protocols for the post-AI world._
 
 👩‍💻 Participate in the [BEBverse](https://beb.xyz) and [B7B](https://b7b.xyz) communities.
 
