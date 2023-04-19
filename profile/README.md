@@ -1,6 +1,6 @@
 # BEBverse Labs
 
-_We build decentralized social protocols for a post-AI world._
+_We build decentralized social protocols for AI Defense._
 
 👩‍💻 Participate in the [BEBverse](https://beb.xyz) and [B7B](https://b7b.xyz) communities.
 
