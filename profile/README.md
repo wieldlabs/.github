@@ -4,7 +4,7 @@ _We're building a decentralized social protocol for AI Defense._
 
 👩‍💻 Participate in the [BEBverse](https://beb.xyz) and [B7B](https://b7b.xyz) communities.
 
-📖 Read the protocol docs on [bebverse/protocol](https://github.com/bebverse/protocol)
+📖 [Read our docs on [docs.beb.xyz](https://docs.beb.xyz)
 
 🔨 Explore our self-hosted dimensions at [bebverse/universe](https://github.com/bebverse/universe) and our [developer docs](https://hackmd.io/@bebverse/graphql)
 
