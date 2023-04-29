@@ -1,6 +1,6 @@
 # BEBverse Labs
 
-_We're building a protocol to create trust in a trustless world._
+_We're building a protocol that creates trust in a trustless world._
 
 👩‍💻 Participate in the [BEBverse](https://beb.xyz) and [B7B](https://b7b.xyz) communities.
 
