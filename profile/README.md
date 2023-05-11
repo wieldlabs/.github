@@ -1,6 +1,6 @@
 # BEBverse Labs
 
-_We're building a social protocol that creates trust in a trustless AI-driven world._
+_We're building a social protocol that creates trust in a world run by AI._
 
 👩‍💻 Participate in the [BEBverse](https://beb.xyz) and [B7B](https://b7b.xyz) communities.
 
