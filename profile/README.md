@@ -2,9 +2,9 @@
 
 _We're building a social protocol that creates trust in a world run by AI._
 
-👩‍💻 Participate in the [BEBverse](https://beb.xyz) and [B7B](https://b7b.xyz) communities.
+📖 Learn about our protocol on [beb.domains](https://beb.domains) and read our docs on [docs.beb.xyz](https://docs.beb.xyz)
 
-📖 Read our docs on [docs.beb.xyz](https://docs.beb.xyz)
+👩‍💻 Participate in the [BEBverse](https://beb.xyz) and [B7B](https://b7b.xyz) communities.
 
 🔨 Explore our self-hosted dimensions at [bebverse/universe](https://github.com/bebverse/universe) and our [developer docs](https://hackmd.io/@bebverse/graphql)
 
