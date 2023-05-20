@@ -1,6 +1,6 @@
 # BEBverse Labs
 
-_We're building a social protocol that creates trust in a world run by AI._
+_We're building a social protocol that keeps the internet human._
 
 📖 Learn about our protocol on [beb.domains](https://beb.domains) and read our docs on [docs.beb.xyz](https://docs.beb.xyz)
 
