@@ -1,6 +1,6 @@
 # BEBverse Labs
 
-bebOS keeps the internet human._
+_bebOS keeps the internet human._
 
 📖 Learn about our protocol on [beb.domains](https://beb.domains) and read our docs on [docs.beb.xyz](https://docs.beb.xyz)
 
