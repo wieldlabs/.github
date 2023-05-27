@@ -2,7 +2,7 @@
 
 _bebOS keeps the internet human._
 
-📖 Learn about our protocol on [beb.domains](https://beb.domains) and read our docs on [docs.beb.domains](https://docs.beb.domains)
+📖 Learn about our protocol on [beb.domains](https://beb.domains) and read our [developer docs](https://docs.beb.domains)
 
 👩‍💻 Participate in the [BEBverse](https://beb.xyz) and [B7B](https://b7b.xyz) communities
 
