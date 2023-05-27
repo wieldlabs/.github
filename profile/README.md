@@ -1,4 +1,4 @@
-# BEBverse Labs
+# bebOS Labs
 
 _bebOS keeps the internet human._
 
@@ -6,10 +6,10 @@ _bebOS keeps the internet human._
 
 👩‍💻 Participate in the [BEBverse](https://beb.xyz) and [B7B](https://b7b.xyz) communities
 
-🔨 Explore our self-hosted dimensions at [bebverse/universe](https://github.com/bebverse/universe) and our [developer docs](https://hackmd.io/@bebverse/graphql)
+🔨 Explore our self-hosted dimensions at [bebdomains/universe](https://github.com/bebdomains/universe) and our [developer docs](https://docs.beb.xyz)
 
-👀 See our open-source frontend at [bebverse/b7b](https://github.com/bebverse/b7b) and [b7b.xyz](https://b7b.xyz)
+👀 See our open-source frontend at [bebdomains/b7b](https://github.com/bebdomains/b7b) and [b7b.xyz](https://b7b.xyz)
 
-🐦 Follow [@bebverse](https://twitter.com/bebverse) and [@bebprotocol](https://twitter.com/bebprotocol) on Twitter
+🐦 Follow [@bebdomains](https://twitter.com/bebdomains) and [@bebprotocol](https://twitter.com/bebprotocol) on Twitter
 
-🏗️ Join our [public Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss BEB in real-time
+🏗️ Join our [public Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss bebOS in real-time
