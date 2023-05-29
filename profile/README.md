@@ -14,4 +14,4 @@ _bebOS keeps the internet human._
 
 🏗️ Join our [public Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss bebOS in real-time
 
-![landing photo](https://github.com/bebdomains/.github/assets/104177346/917942df-a93c-42e0-ac82-912497e8f967)
+![landing photo](https://github.com/bebdomains/.github/assets/104177346/de5e2f4d-4173-4811-a3e5-7d74c182a91c)
