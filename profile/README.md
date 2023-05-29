@@ -13,3 +13,5 @@ _bebOS keeps the internet human._
 🐦 Follow [@bebdomains](https://twitter.com/bebdomains) and [@bebprotocol](https://twitter.com/bebprotocol) on Twitter
 
 🏗️ Join our [public Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss bebOS in real-time
+
+![landing photo](https://github.com/bebdomains/.github/assets/104177346/917942df-a93c-42e0-ac82-912497e8f967)
