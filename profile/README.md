@@ -1,6 +1,6 @@
 # bebOS Labs
 
-_bebOS keeps the internet human._
+_bebOS simplifies crypto apps._
 
 📖 Learn about our protocol on [beb.domains](https://beb.domains) and read our [developer docs](https://docs.beb.domains)
 
