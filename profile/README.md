@@ -1,6 +1,6 @@
 # bebOS Labs
 
-_bebOS makes crypto fun!_
+_bebOS makes crypto fun, safe and simple!_
 
 📖 Learn about our protocol on [beb.domains](https://beb.domains) and read our [developer docs](https://docs.beb.domains)
 
