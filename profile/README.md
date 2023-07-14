@@ -4,7 +4,7 @@ _bebOS makes crypto fun, safe and simple!_
 
 📖 Learn about our protocol on [beb.domains](https://beb.domains) and read our [developer docs](https://docs.beb.domains)
 
-👩‍💻 Participate in the [BEBverse](https://beb.xyz) and [B7B](https://b7b.xyz) communities
+👩‍💻 Try our apps such as [FarQuest](https://farquest.app) and [BEBverse](https://beb.xyz)
 
 🔨 Explore our self-hosted dimensions at [bebdomains/universe](https://github.com/bebdomains/universe) and our [developer docs](https://docs.beb.domains)
 
