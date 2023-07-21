@@ -2,7 +2,7 @@
 
 _beb.quest makes crypto fun, safe and simple!_
 
-📖 Learn about our protocol on [beb.quest](https://beb.quest) and read our [developer docs](https://docs.beb.quest)
+📖 Learn about us on [beb.quest](https://beb.quest) and read our [developer docs](https://docs.beb.quest)
 
 👩‍💻 Try our apps such as [FarQuest](https://farquest.app) and [BEBverse](https://beb.xyz)
 
