@@ -1,6 +1,6 @@
 # beb.quest
 
-_beb.quest makes crypto fun, safe and simple!_
+_beb.quest makes crypto exploration fun!_
 
 📖 Learn about us on [beb.quest](https://beb.quest) and read our [developer docs](https://docs.beb.quest)
 
