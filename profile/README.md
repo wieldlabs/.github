@@ -4,7 +4,7 @@ _beb.quest makes crypto exploration fun!_
 
 📖 Learn about us on [beb.quest](https://beb.quest) and read our [developer docs](https://docs.beb.quest)
 
-👩‍💻 Try our apps such as [FarQuest](https://farquest.app)
+👩‍💻 Try our apps such as [FarQuest](https://farquest.app) 👁️
 
 🔨 Explore our self-hosted dimensions at [bebprotocol/universe](https://github.com/bebprotocol/universe) and our [developer docs](https://docs.beb.quest)
 
