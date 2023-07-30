@@ -10,6 +10,6 @@ _beb.quest makes crypto exploration fun!_
 
 🐦 Follow [@bebprotocol](https://twitter.com/bebprotocol) on Twitter
 
-🏗️ Join our [public Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss bebOS in real-time
+🏗️ Join our [public Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss beb.quest in real-time
 
 ![landing photo](https://github.com/bebprotocol/.github/assets/104177346/de5e2f4d-4173-4811-a3e5-7d74c182a91c)
