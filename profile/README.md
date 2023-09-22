@@ -2,7 +2,7 @@
 
 _cast.quest makes crypto exploration fun!_
 
-📖 Learn about us on [cast.quest](https://cast.quest)
+📖 Learn about us on [cast.quest](https://cast.quest)!
 
 👩‍💻 Try [FarQuest](https://farquest.app) 👁️
 
