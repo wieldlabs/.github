@@ -1,14 +1,14 @@
-# beb.quest
+# cast.quest
 
-_beb.quest makes crypto exploration fun!_
+_cast.quest makes crypto exploration fun!_
 
-📖 Learn about us on [beb.quest](https://beb.quest) and read our [developer docs](https://docs.beb.quest)
+📖 Learn about us on [cast.quest](https://cast.quest)
 
-👩‍💻 Try our first game at [FarQuest](https://farquest.app) 👁️
+👩‍💻 Try [FarQuest](https://farquest.app) 👁️
 
-🔨 Explore our self-hosted dimensions at [bebprotocol/universe](https://github.com/bebprotocol/universe) and our [developer docs](https://docs.beb.quest)
+🔨 Explore our self-hosted dimensions at [castprotocol/universe](https://github.com/castprotocol/universe)
 
-🐦 Follow [@bebprotocol](https://twitter.com/bebprotocol) on Twitter
+🐦 Follow [@castprotocol](https://twitter.com/castprotocol) on Twitter
 
 🏗️ Join our [public Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss beb.quest in real-time
 
