@@ -1,15 +1,15 @@
-# cast.quest
+# Wield
 
-_cast.quest makes crypto exploration fun!_
+_Wield makes crypto exploration fun!_
 
-📖 Learn about us on [cast.quest](https://cast.quest)!
+📖 Learn about us on [Wield](https://wield.co)!
 
 👩‍💻 Try [FarQuest](https://farquest.app) 👁️
 
-🔨 Explore our self-hosted dimensions at [castprotocol/universe](https://github.com/castprotocol/universe)
+🔨 Explore our self-hosted dimensions at [wieldprotocol/universe](https://github.com/wieldprotocol/universe)
 
-🐦 Follow [@castprotocol](https://twitter.com/castprotocol) on Twitter
+🐦 Follow [@castprotocol](https://twitter.com/wieldprotocol) on Twitter
 
 🏗️ Join our [public Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss beb.quest in real-time
 
-![landing photo](https://github.com/bebprotocol/.github/assets/104177346/de5e2f4d-4173-4811-a3e5-7d74c182a91c)
+![landing photo](https://github.com/wieldprotocol/.github/assets/104177346/de5e2f4d-4173-4811-a3e5-7d74c182a91c)
