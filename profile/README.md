@@ -10,6 +10,6 @@ _Wield makes crypto exploration fun!_
 
 🐦 Follow [@castprotocol](https://twitter.com/wieldprotocol) on Twitter
 
-🏗️ Join our [public Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss beb.quest in real-time
+🏗️ Join our [public Dev Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss Wield in real-time
 
 ![landing photo](https://github.com/wieldprotocol/.github/assets/104177346/de5e2f4d-4173-4811-a3e5-7d74c182a91c)
