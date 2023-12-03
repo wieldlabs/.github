@@ -6,9 +6,9 @@ _Wield makes crypto exploration fun!_
 
 👩‍💻 Try [FarQuest](https://farquest.app) 👁️
 
-🔨 Explore our self-hosted dimensions at [wieldprotocol/universe](https://github.com/wieldprotocol/universe)
+🔨 Explore our self-hosted dimensions at [wieldlabs/universe](https://github.com/wieldlabs/universe)
 
-🐦 Follow [@wieldprotocol](https://twitter.com/wieldprotocol) on Twitter
+🐦 Follow [@wieldlabs](https://twitter.com/wieldlabs) on Twitter
 
 🏗️ Join our [public Dev Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss Wield in real-time
 
