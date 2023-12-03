@@ -8,7 +8,7 @@ _Wield makes crypto exploration fun!_
 
 🔨 Explore our self-hosted dimensions at [wieldprotocol/universe](https://github.com/wieldprotocol/universe)
 
-🐦 Follow [@castprotocol](https://twitter.com/wieldprotocol) on Twitter
+🐦 Follow [@wieldprotocol](https://twitter.com/wieldprotocol) on Twitter
 
 🏗️ Join our [public Dev Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss Wield in real-time
 
