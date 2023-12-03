@@ -4,7 +4,7 @@ _Wield makes crypto exploration fun!_
 
 📖 Learn about us on [Wield](https://wield.co)!
 
-👩‍💻 Try [FarQuest](https://farquest.app) 👁️
+👩‍💻 Try [far.quest](https://far.quest), built on Wield 👁️
 
 🔨 Explore our self-hosted dimensions at [wieldlabs/universe](https://github.com/wieldlabs/universe)
 
