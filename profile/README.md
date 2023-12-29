@@ -6,8 +6,6 @@ _Wield makes crypto exploration fun!_
 
 👩‍💻 Try [far.quest](https://far.quest), built on Wield 👁️
 
-🔨 Explore our self-hosted dimensions at [wieldlabs/universe](https://github.com/wieldlabs/universe)
-
 🐦 Follow [@wieldlabs](https://twitter.com/wieldlabs) on Twitter
 
 🏗️ Join our [public Dev Telegram](https://t.me/+AAgF-ptLxjEzZGNh) to discuss Wield in real-time
