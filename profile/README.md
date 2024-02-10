@@ -1,6 +1,6 @@
 # Wield
 
-_Wield makes crypto exploration fun!_
+_Wield makes crypto exploration fun through [far.quest](https://far.quest)!_
 
 📖 Learn about us on [Wield](https://wield.co)!
 
