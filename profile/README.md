@@ -4,7 +4,7 @@ _Wield makes crypto exploration fun through [far.quest](https://far.quest)!_
 
 📖 Learn about us on [Wield](https://wield.co)!
 
-👩‍💻 Try [far.quest](https://far.quest), built on Wield 👁️
+👩‍💻 Try [far.quest](https://far.quest), built on Wield, and start building at [docs.far.quest](https://docs.far.quest) 👁️
 
 🐦 Follow [@wieldlabs](https://twitter.com/wieldlabs) on Twitter
 
