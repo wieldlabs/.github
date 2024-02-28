@@ -1,6 +1,6 @@
 # Wield
 
-_Wield makes crypto exploration fun through [far.quest](https://far.quest)!_
+_Explore Farcaster through [far.quest](https://far.quest) and [Cast](https://far.quest/cast)!_
 
 📖 Learn about us on [Wield](https://wield.xyz)!
 
