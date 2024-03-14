@@ -1,6 +1,6 @@
 # Wield Labs
 
-_Explore Farcaster through [far.quest](https://far.quest) and [Cast](https://far.quest/cast)!_
+_Explore Farcaster through [far.quest](https://far.quest)!_
 
 👩‍💻 Try [far.quest](https://far.quest) and start building at [docs.far.quest](https://docs.far.quest) 👁️
 
