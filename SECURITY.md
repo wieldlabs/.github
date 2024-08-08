@@ -54,7 +54,7 @@ The CVSS score ranges from 0.0 to 10.0, with higher scores indicating more sever
 
 To report a vulnerability, please follow these steps:
 
-1. **Email**: Send an email to gm@wield.xyz with the subject "Bug Bounty Submission".
+1. **Email**: Send an email to security@wield.xyz with the subject "Bug Bounty Submission".
 2. **Include**:
    - A detailed description of the vulnerability.
    - Steps to reproduce the vulnerability.
@@ -86,7 +86,7 @@ To be eligible for a reward:
 
 ## Contact
 
-If you have any questions about the bug bounty program, please contact us at gm@wield.xyz.
+If you have any questions about the bug bounty program, please contact us at security@wield.xyz.
 
 Thank you for helping us keep Wield Labs secure!
 
