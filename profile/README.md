@@ -2,7 +2,7 @@
 
 _Explore Farcaster through [far.quest](https://far.quest)!_
 
-👩‍💻 Try [far.quest](https://far.quest) and start building at [docs.far.quest](https://docs.far.quest) 👁️
+👩‍💻 Try [far.quest](https://far.quest) and start building at [docs.wield.xyz](https://docs.wield.xyz) 👁️
 
 🐦 Follow [@wieldlabs](https://twitter.com/wieldlabs) on Twitter
 
