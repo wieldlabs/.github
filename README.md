@@ -1,1 +1,1 @@
-# bebverse .github files
+# Wield Labs .github files
