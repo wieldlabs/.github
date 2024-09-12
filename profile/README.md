@@ -1,6 +1,8 @@
 # Wield Labs
 
-_Explore Farcaster through [far.quest](https://far.quest)!_
+### Wield L2 is the first and largest Farcaster L2! 
+
+_Join our 100,000+ .cast handles to start using [far.quest](https://far.quest) today!_
 
 👩‍💻 Try [far.quest](https://far.quest) and start building at [docs.wield.xyz](https://docs.wield.xyz) 👁️
 
