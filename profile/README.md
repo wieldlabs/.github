@@ -1,8 +1,8 @@
 # Wield Labs
 
-### Wield L2 is the first and largest Farcaster L2! 
+### Wield L2 is the first and largest Farcaster L2!
 
-_Join our 100,000+ .cast handles to start using [far.quest](https://far.quest) & [FarHero](https://far.quest/hero) today!_
+_Join our 125,000+ .cast handles to start using [far.quest](https://far.quest) & [FarHero](https://far.quest/hero) today!_
 
 👩‍💻 Try [far.quest](https://far.quest), [FarHero](https://far.quest/hero) and start building at [docs.wield.xyz](https://docs.wield.xyz) 👁️
 
