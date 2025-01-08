@@ -1,6 +1,6 @@
 # Wield Labs
 
-### Wield L2 is the first and largest Farcaster L2!
+### Wield AI L2 is the first and largest Farcaster AI L2!
 
 _Join our 125,000+ .cast handles to start using [far.quest](https://far.quest) & [FarHero](https://far.quest/hero) today!_
 
