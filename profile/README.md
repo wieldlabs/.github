@@ -1,6 +1,6 @@
 # Wield Labs
 
-### Wield AI - Farcaster, Scaled
+### Wield - Farcaster, Scaled
 
 _Join our 125,000+ .cast handles to start using [far.quest](https://far.quest) & [FarAgents](https://far.quest/agents) today!_
 
