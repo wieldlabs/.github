@@ -1,4 +1,4 @@
-# Wield Labs
+# Vibechain
 
 ### it pays to dream.
 
