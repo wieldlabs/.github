@@ -1,1 +1,1 @@
-# Wield Labs .github files
+# Vibechain .github files
